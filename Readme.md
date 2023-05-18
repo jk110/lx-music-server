@@ -231,7 +231,7 @@ location /xxx { # 该规则用于代理路径下的ws请求
 
 ### Docker
 
-可以使用以下方式构建docker镜像（Dockerfile用的是源码构建）：
+可以使用以下方式构建docker镜像xxxx（Dockerfile用的是源码构建）：
 
 ```bash
 docker build -t lx-music-sync-server .
